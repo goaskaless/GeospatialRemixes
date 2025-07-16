@@ -4,3 +4,5 @@ This takes two images from the same location at different times and compares the
 
 https://opengeoai.org/examples/solar_panel_detection/
 https://colab.research.google.com/drive/1CwmIX0rymfkU6k4x2tkvw5gMZ1DV9uCO
+
+View all cells: https://nbviewer.org/github/goaskaless/GeospatialRemixes/blob/main/Compare_Solar_Panel_Coverage_YoY_GeoAI.ipynb 
